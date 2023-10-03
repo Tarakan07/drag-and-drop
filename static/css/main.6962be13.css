@@ -1,0 +1,2 @@
+.wrap{margin:10% auto 0;width:80%}.block{justify-content:space-between}.block,.box{display:flex}.box{align-items:center;border:2px solid blue;border-radius:5%;cursor:grab;height:300px;justify-content:center;width:18%}.box *{pointer-events:none}.box>p{color:blue;font-size:20px;font-weight:700;-webkit-user-select:none;user-select:none}.box.active{box-shadow:0 0 18px 5px rgba(74,150,209,.93)}.box.active_over{box-shadow:0 0 18px 5px rgba(209,74,74,.93)}
+/*# sourceMappingURL=main.6962be13.css.map*/
